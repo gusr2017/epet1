@@ -5,7 +5,7 @@
 	margin-right: auto;
 }
 table, th, td {
-	background-color: #fff0ff;
+	background-color: #f4fff0;
 	border: 1px solid red;
 	border-radius: 5px;
 	width: 400px;
@@ -19,5 +19,6 @@ table, th, td {
 	text-align: right;
 }
 body{
+	/*background-color: rgb(88, 198, 170);*/
 	background-color: #eeedee;
 }

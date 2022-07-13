@@ -1,8 +1,9 @@
 #todo{
-	border: 0px solid blue;
+	border: 1px solid blue;
 	width: 400px;
 	margin-left: auto;
 	margin-right: auto;
+
 }
 table, th, td {
 	background-color: #fff0ff;
@@ -10,7 +11,6 @@ table, th, td {
 	border-radius: 5px;
 	width: 400px;
 	font-family: 'Arial';
-
 }
 #titulo, #boton{
 	text-align: center;
@@ -20,4 +20,5 @@ table, th, td {
 }
 body{
 	background-color: #eeedee;
+	border: solid 1px;
 }
