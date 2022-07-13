@@ -1,0 +1,22 @@
+body{
+	font-family: verdana;
+        font-size: 13px;
+}
+
+table{
+	border-collapse: collapse;
+}
+
+table tr td{
+	border: 1px solid;
+}
+th{
+    border: 1px solid;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+}
